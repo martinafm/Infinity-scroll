@@ -2,7 +2,7 @@
 
 One of excercise project of Zero To Mastery course.
 
-Click [this](https://martinafm.github.io/infinity-scrolling/) link to see it live in your browser.
+Click [this](https://martinafm.github.io/infinity-scroll/) link to see it live in your browser.
 
 
 ## Table of Contents
